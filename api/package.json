@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "lodash": "~1.2.0",
-    "apiaxle-base": "../base",
+    "apiaxle-base": "./base",
     "libxmljs": "0.14.0",
     "moment": "~2.0.0",
     "scarf": "0.0.10",
